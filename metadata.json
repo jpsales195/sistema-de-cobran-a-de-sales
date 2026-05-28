@@ -1,0 +1,6 @@
+{
+  "name": "Banco de Controle de Dívidas",
+  "description": "Landing page de controle financeiro para listar credores e simular juros de 5% ao mês.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
